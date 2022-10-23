@@ -1,0 +1,480 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Силовые автоматические выключатели",
+            "category_count": 17,
+            "product_count": 2132,
+            "type": "popular"
+        },
+        {
+            "id": 2,
+            "name": "Модульное оборудование",
+            "category_count": 10,
+            "product_count": 3628,
+            "type": "popular"
+        },
+        {
+            "id": 3,
+            "name": "Пускатели электромагнитные, дополнительные устройства и запчасти",
+            "category_count": 21,
+            "product_count": 7363,
+            "type": "popular"
+        },
+        {
+            "id": 4,
+            "name": "Контакторы электромагнитные",
+            "category_count": 3,
+            "product_count": 142,
+            "type": "popular"
+        },
+        {
+            "id": 5,
+            "name": "Контакторы вакуумные",
+            "category_count": 5,
+            "product_count": 73,
+            "type": "popular"
+        },
+        {
+            "id": 6,
+            "name": "Рубильники, переключатели, разъединители",
+            "category_count": 9,
+            "product_count": 551,
+            "type": "popular"
+        },
+        {
+            "id": 7,
+            "name": "Щитовое оборудование TEXENERGO",
+            "category_count": 15,
+            "product_count": 1400,
+            "type": "popular"
+        },
+        {
+            "id": 8,
+            "name": "Шкафы, щиты, ящики, боксы и аксессуары",
+            "category_count": 5,
+            "product_count": 1501,
+            "type": "popular"
+        },
+        {
+            "id": 9,
+            "name": "Электроизмерительные приборы переносные",
+            "category_count": 6,
+            "product_count": 68,
+            "type": "all"
+        },
+        {
+            "id": 10,
+            "name": "Мегаомметры",
+            "category_count": 1,
+            "product_count": 6,
+            "type": "all"
+        },
+        {
+            "id": 11,
+            "name": "Предохранители",
+            "category_count": 4,
+            "product_count": 1151,
+            "type": "all"
+        },
+        {
+            "id": 12,
+            "name": "Силовые разъемы, вилки, розетки",
+            "category_count": 7,
+            "product_count": 186,
+            "type": "all"
+        },
+        {
+            "id": 13,
+            "name": "Реле, датчики, контроллеры",
+            "category_count": 19,
+            "product_count": 1314,
+            "type": "all"
+        },
+        {
+            "id": 14,
+            "name": "Посты кнопочные",
+            "category_count": 8,
+            "product_count": 87,
+            "type": "all"
+        },
+        {
+            "id": 15,
+            "name": "Пожарное оборудование",
+            "category_count": 2,
+            "product_count": 48,
+            "type": "all"
+        },
+        {
+            "id": 16,
+            "name": "Выключатели, переключатели пакетные и кулачковые",
+            "category_count": 8,
+            "product_count": 629,
+            "type": "all"
+        },
+        {
+            "id": 17,
+            "name": "Выключатели концевые и путевые",
+            "category_count": 10,
+            "product_count": 58,
+            "type": "all"
+        },
+        {
+            "id": 18,
+            "name": "Устройства управления",
+            "category_count": 4,
+            "product_count": 928,
+            "type": "all"
+        },
+        {
+            "id": 19,
+            "name": "Крановое оборудование",
+            "category_count": 3,
+            "product_count": 97,
+            "type": "all"
+        },
+        {
+            "id": 20,
+            "name": "Трансформаторы напряжения",
+            "category_count": 4,
+            "product_count": 1107,
+            "type": "all"
+        },
+        {
+            "id": 21,
+            "name": "Комплектующие для шкафов, ящиков и боксов",
+            "category_count": 7,
+            "product_count": 63,
+            "type": "all"
+        },
+        {
+            "id": 22,
+            "name": "Шины нулевые и соединительные",
+            "category_count": 2,
+            "product_count": 68,
+            "type": "all"
+        },
+        {
+            "id": 23,
+            "name": "Светотехника",
+            "category_count": 9,
+            "product_count": 586,
+            "type": "all"
+        },
+        {
+            "id": 24,
+            "name": "Светосигнальные индикаторы, арматура, табло",
+            "category_count": 17,
+            "product_count": 784,
+            "type": "all"
+        }
+    ],
+    "brands": [
+        {
+            "id": 1,
+            "name": "Power Solutions",
+            "count": 2126
+        },
+        {
+            "id": 2,
+            "name": "Siemens",
+            "count": 2126
+        },
+        {
+            "id": 3,
+            "name": "SaiFu",
+            "count": 2126
+        },
+        {
+            "id": 4,
+            "name": "Cougar",
+            "count": 2126
+        },
+        {
+            "id": 5,
+            "name": "Toshiba",
+            "count": 2126
+        },
+        {
+            "id": 6,
+            "name": "Uniel",
+            "count": 2126
+        },
+        {
+            "id": 7,
+            "name": "Wiegel",
+            "count": 2126
+        },
+        {
+            "id": 8,
+            "name": "Xuyang",
+            "count": 2126
+        },
+        {
+            "id": 9,
+            "name": "Bylectrica",
+            "count": 2126
+        },
+        {
+            "id": 10,
+            "name": "Arlight",
+            "count": 2126
+        },
+        {
+            "id": 11,
+            "name": "Deko",
+            "count": 2126
+        },
+        {
+            "id": 12,
+            "name": "Апатор",
+            "count": 2126
+        },
+        {
+            "id": 13,
+            "name": "Вихрь",
+            "count": 2126
+        },
+        {
+            "id": 14,
+            "name": "Bahco",
+            "count": 2126
+        },
+        {
+            "id": 15,
+            "name": "EAE Elektrik",
+            "count": 2126
+        },
+        {
+            "id": 16,
+            "name": "Subaru",
+            "count": 2126
+        }
+    ],
+    "keyboard": {
+        "rus": [
+            {
+                "id": "rus_1",
+                "letter": "А"
+            },
+            {
+                "id": "rus_2",
+                "letter": "Б"
+            },
+            {
+                "id": "rus_3",
+                "letter": "В"
+            },
+            {
+                "id": "rus_4",
+                "letter": "Г"
+            },
+            {
+                "id": "rus_5",
+                "letter": "Д"
+            },
+            {
+                "id": "rus_6",
+                "letter": "Е"
+            },
+            {
+                "id": "rus_7",
+                "letter": "Ж"
+            },
+            {
+                "id": "rus_8",
+                "letter": "З"
+            },
+            {
+                "id": "rus_9",
+                "letter": "И"
+            },
+            {
+                "id": "rus_10",
+                "letter": "Й"
+            },
+            {
+                "id": "rus_11",
+                "letter": "К"
+            },
+            {
+                "id": "rus_12",
+                "letter": "Л"
+            },
+            {
+                "id": "rus_13",
+                "letter": "М"
+            },
+            {
+                "id": "rus_14",
+                "letter": "Н"
+            },
+            {
+                "id": "rus_15",
+                "letter": "О"
+            },
+            {
+                "id": "rus_16",
+                "letter": "П"
+            },
+            {
+                "id": "rus_17",
+                "letter": "Р"
+            },
+            {
+                "id": "rus_18",
+                "letter": "С"
+            },
+            {
+                "id": "rus_19",
+                "letter": "Т"
+            },
+            {
+                "id": "rus_20",
+                "letter": "У"
+            },
+            {
+                "id": "rus_21",
+                "letter": "Ф"
+            },
+            {
+                "id": "rus_22",
+                "letter": "Х"
+            },
+            {
+                "id": "rus_23",
+                "letter": "Ц"
+            },
+            {
+                "id": "rus_24",
+                "letter": "Ч"
+            },
+            {
+                "id": "rus_25",
+                "letter": "Ш"
+            },
+            {
+                "id": "rus_26",
+                "letter": "Щ"
+            },
+            {
+                "id": "rus_27",
+                "letter": "Э"
+            },
+            {
+                "id": "rus_28",
+                "letter": "Ю"
+            },
+            {
+                "id": "rus_29",
+                "letter": "Я"
+            }
+        ],
+        "en": [
+            {
+                "id": "en_1",
+                "letter": "A"
+            },
+            {
+                "id": "en_2",
+                "letter": "B"
+            },
+            {
+                "id": "en_3",
+                "letter": "C"
+            },
+            {
+                "id": "en_4",
+                "letter": "D"
+            },
+            {
+                "id": "en_5",
+                "letter": "E"
+            },
+            {
+                "id": "en_6",
+                "letter": "F"
+            },
+            {
+                "id": "en_7",
+                "letter": "G"
+            },
+            {
+                "id": "en_8",
+                "letter": "H"
+            },
+            {
+                "id": "en_9",
+                "letter": "I"
+            },
+            {
+                "id": "en_10",
+                "letter": "J"
+            },
+            {
+                "id": "en_11",
+                "letter": "K"
+            },
+            {
+                "id": "en_12",
+                "letter": "L"
+            },
+            {
+                "id": "en_13",
+                "letter": "M"
+            },
+            {
+                "id": "en_14",
+                "letter": "N"
+            },
+            {
+                "id": "en_15",
+                "letter": "O"
+            },
+            {
+                "id": "en_16",
+                "letter": "P"
+            },
+            {
+                "id": "en_17",
+                "letter": "Q"
+            },
+            {
+                "id": "en_18",
+                "letter": "R"
+            },
+            {
+                "id": "en_19",
+                "letter": "S"
+            },
+            {
+                "id": "en_20",
+                "letter": "T"
+            },
+            {
+                "id": "en_21",
+                "letter": "U"
+            },
+            {
+                "id": "en_22",
+                "letter": "V"
+            },
+            {
+                "id": "en_23",
+                "letter": "W"
+            },
+            {
+                "id": "en_24",
+                "letter": "X"
+            },
+            {
+                "id": "en_25",
+                "letter": "Y"
+            },
+            {
+                "id": "en_26",
+                "letter": "Z"
+            }
+        ]
+    }
+}

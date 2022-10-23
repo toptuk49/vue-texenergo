@@ -1,0 +1,56 @@
+// Шрифты
+@import "fonts";
+
+// Переменные
+$regular: 400;
+$medium: 500;
+$bold: 700;
+$black: #000;
+$white: #fff;
+$orange: #FF5A00;
+$gray: #A7A7A7;
+$dark-gray: #7C7C7C;
+$cyan: #278A9D;
+$light-blue: #F4F9FA;
+$medium-blue: #D4E8EB;
+
+
+// Миксины
+@mixin full-flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@mixin align-items {
+    display: flex;
+    align-items: center;
+}
+
+@mixin j-content {
+    display: flex;
+    justify-content: center;
+}
+
+@mixin container {
+    // 1920
+    margin: 0 50px;
+}
+
+// Общие стили
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    font-family: "IBMPlexSans", sans-serif;
+    overflow-x: hidden;
+}
+
+@import "catalog";
+@import "categories-filter";
+@import "category";
+@import "popular-categories";
+@import "all-categories";
+@import "sub";

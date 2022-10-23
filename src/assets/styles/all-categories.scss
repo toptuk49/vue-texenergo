@@ -1,0 +1,106 @@
+.v-all-categories {
+    @include full-flex;
+    background-color: $white;
+
+    .v-all-categories-container {
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 120px;
+
+        .v-all-categories-header {
+            text-align: center;
+            font-weight: $medium;
+            font-size: 36px;
+            line-height: 48px;
+            color: $black;
+            margin-bottom: 60px;
+            margin-top: 120px;
+
+            @media (max-width: 992px) {
+                font-size: 28px;
+                line-height: 42px;
+                margin-top: 80px;
+            }
+
+            @media (max-width: 576px) {
+                font-size: 25px;
+                line-height: 38px;
+                margin-top: 60px;
+            }
+        }
+
+        .v-all-categories-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            grid-column-gap: 80px;
+            grid-row-gap: 40px;
+
+            .media-show-more-button-container {
+                width: 100%;
+                @include j-content;
+                display: none;
+                margin-bottom: 40px;
+
+                .media-show-more-button {
+                    border: 1px solid $black;
+                    font-weight: $medium;
+                    font-size: 18px;
+                    line-height: 30px;
+                    color: $black;
+                    transition: .3s;
+                    background-color: $white;
+                    padding: 10px 20px;
+                    margin: 0 auto;
+                    transition: .3s;
+
+                    &:hover {
+                        background-color: $orange;
+                        border: 1px solid $orange;
+                        color: $white;
+                    }
+                }
+
+                @media (max-width: 576px) {
+                    display: flex;
+                }
+            }
+
+            @media (max-width: 1400px) {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            @media (max-width: 992px) {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            @media (max-width: 692px) {
+                grid-column-gap: 60px;
+            }
+
+            @media (max-width: 650px) {
+                display: block;
+                margin: 0 auto;
+
+                .v-category {
+                    margin-bottom: 40px;
+
+                    &:nth-child(n+5) {
+                        margin-bottom: 40px;
+                    }
+
+                    &:last-child {
+                        margin-bottom: 0;
+                    }
+                }
+            }
+        }
+
+        @media (max-width: 992px) {
+            margin-bottom: 80px;
+        }
+
+        @media (max-width: 576px) {
+            margin-bottom: 60px;
+        }
+    }
+}
