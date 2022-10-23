@@ -10,16 +10,18 @@ npm install
 ```
 npm run serve
 ```
-
-You need also install json-server:
+----
+You also need to install json-server:
 ```
 npm install -g json-server
 ```
-And then, before using __npm run serve__, run
+And then, before using __npm run serve__, just run
 ```
 json-server --watch db.json
 ```
 in the other terminal in the project folder
+
+----
 
 ### Compiles and minifies for production
 ```
